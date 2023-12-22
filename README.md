@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ambuj+Kumar;I'm+23+years+old;I+am+from+India,+IN+UP;+I+am+Learning+open+source+and+MERN+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Ambuj Kumar</h1> 
-                                     <p align="center">  I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India 🏳️‍🌈 </p> 
+                                     <p align="center">  I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India  </p> 
                                      <p align="center"> Problem Solving Enthusiast || 500 Problems+ on @CodeChef || 3⭐ LEETCODE || 5⭐ Hackerrank || Master on CodeStudio  
-                                        ||Newbie CodeForces || 500+ 
-                              Problems Solved on DSA ||  DSA Lover ❤️ || 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || Deep Learning</p>
+                                        ||Newbie CodeForces || 700+ 
+                              Problems Solved on DSA ||  DSA Lover ❤️ || Python 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || Deep Learning</p>
       
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -18,10 +18,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and listen music
-- 👨‍💻 software developer
-- 💜 python ,C++,DBMS,OPPS
+- 👨‍💻 Software developer
+- 💜 Python , C++, DBMS, OOPs, DSA, Django
 - ❤️ Learing DS and ALGO
-- ✌️ Competitive Programmer , starting Freelancing  in Upwork
+- ✌️ Competitive Programmer, Full Stack Developer
 - 🏃 LinkedIn Profile -  https://www.linkedin.com/in/ambuj-kumar-3b5345197/
 - ❓ Leetcode - (https://leetcode.com/Ambuj_12/)
 - ✨codingninjas codestudio  -- https://www.codingninjas.com/studio/profile/Ambuj11

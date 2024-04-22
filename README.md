@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF671F&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ambuj;I'm+24+years+old;I+am+from+India,+IN+UP;+I+am+Learning+open+source+and+MERN+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ambuj;I'm+24+years+old;I+am+from+India,+IN+UP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Ambuj</h1> 
                                      <p align="center">  I'm a Passionate <b>Python D𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</b> from India  </p> 

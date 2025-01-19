@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ambuj;I'm+24+years+old;I+am+from+India,+IN+UP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Ambuj</h1> 
-                                     <p align="center">  I'm a Passionate <b>Python D𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</b> from India  </p> 
+                                     <p align="center">  I'm a Passionate <b>Associate Software Developer</b> from India  </p> 
                                      <p align="center">  Python 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || 700+ Problems Solved on DSA ||  DSA Lover ❤️ ||  Deep Learning</p>
       
 <h3 align="center">Be Aware Be Safe !</h3>
